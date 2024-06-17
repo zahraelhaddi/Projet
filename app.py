@@ -8,7 +8,7 @@ import json
 page_bg_img = '''
 <style>
 [data-testid="stApp"]{
-background-image:url("https://as2.ftcdn.net/v2/jpg/04/34/54/61/1000_F_434546118_7jHzU5kMGJs7SH2vTPqZI5tOmUndVDpT.jpg");
+background-image:url("https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1038886790W6472H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/free-palestine-sticker.jpg");
 background-repeat:no-repeat;
 background-position:top left;
 background-size:100%;
