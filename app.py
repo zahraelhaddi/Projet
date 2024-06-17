@@ -11,7 +11,6 @@ page_bg_img = '''
 background-image:url("https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1038886790W6472H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/free-palestine-sticker.jpg");
 background-repeat:no-repeat;
 background-position:top left;
-background-size:100%;
 background-opacity:20%;
 }
 </style>
