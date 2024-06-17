@@ -9,7 +9,7 @@ page_bg_img = '''
 <style>
 [data-testid="stApp"]{
 background-image:url("https://img.freepik.com/free-vector/hand-drawn-flat-design-palestine-background_23-2149360170.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718582400&semt=ais_user");
-background-size:cover;
+
 }
 </style>
 '''
