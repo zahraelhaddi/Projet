@@ -8,7 +8,7 @@ import json
 page_bg_img = '''
 <style>
 [data-testid="stApp"]{
-background-image:url("https://img.freepik.com/free-photo/photo-mass-demonstration-with-palestinian-flags_125540-4759.jpg");
+background-image:url("https://as2.ftcdn.net/v2/jpg/04/34/54/61/1000_F_434546118_7jHzU5kMGJs7SH2vTPqZI5tOmUndVDpT.jpg");
 background-repeat:no-repeat;
 background-position:top left;
 background-size:100%;
