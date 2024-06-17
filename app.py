@@ -4,6 +4,18 @@ import os
 import phonenumbers
 import json
 
+# CSS to set the background image
+page_bg_img = '''
+<style>
+body {
+background-image: url("palestine_background.png");
+background-size: cover;
+}
+</style>
+'''
+
+st.markdown(page_bg_img, unsafe_allow_html=True)
+
 # Directory to save uploaded images
 IMAGE_DIR = 'uploaded_images'
 # File to save likes data
