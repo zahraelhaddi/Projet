@@ -8,7 +8,7 @@ import json
 page_bg_img = '''
 <style>
 body {
-background-image: url("https://img.freepik.com/free-photo/photo-mass-demonstration-with-palestinian-flags_125540-4759.jpg?t=st=1718627978~exp=1718631578~hmac=5e37b5592417515bffc881ab0644c118936930f2f7e518d38c14d3b920ef35e0&w=996");
+background-image: url("https://img.freepik.com/free-vector/hand-drawn-flat-design-palestine-background_23-2149360170.jpg");
 background-size: cover;
 }
 </style>
