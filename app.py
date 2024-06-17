@@ -8,7 +8,7 @@ import json
 page_bg_img = '''
 <style>
 [data-testid="stApp"]{
-background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpalestine%2F8&psig=AOvVaw1r0yyemDcCkgZxNVLqsEHy&ust=1718714027863000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiRu-rS4oYDFQAAAAAdAAAAABAv");
+background-image:url("https://img.freepik.com/free-vector/hand-drawn-flat-design-palestine-background_23-2149360170.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718582400&semt=ais_user");
 background-size:cover;
 }
 </style>
