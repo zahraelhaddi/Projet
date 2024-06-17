@@ -12,7 +12,7 @@ background-image:url("https://img.freepik.com/free-photo/photo-mass-demonstratio
 background-repeat:no-repeat;
 background-position:top left;
 background-size:100%;
-opacity:20%;
+background-opacity:20%;
 }
 </style>
 '''
