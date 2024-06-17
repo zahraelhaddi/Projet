@@ -21,6 +21,11 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Directory to save uploaded images
 IMAGE_DIR = 'uploaded_images'
+
+if not os.path.exists(UPLOAD_DIR):
+    os.makedirs(UPLOAD_DIR)
+
+
 # File to save likes data
 LIKES_FILE = 'likes.json'
 
