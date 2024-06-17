@@ -9,7 +9,8 @@ page_bg_img = '''
 <style>
 [data-testid="stApp"]{
 background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvROtwrgztdQMGaSy0BH6GBgwYoy5PETg_Q&s");
-background-size:cover;
+background-repeat:no-repeat;
+background-position:top left;
 }
 </style>
 '''
