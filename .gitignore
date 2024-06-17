@@ -1,0 +1,9 @@
+# Ignore the likes.json file
+likes.json
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
