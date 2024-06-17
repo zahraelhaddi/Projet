@@ -80,17 +80,17 @@ def toggle_like(image_file):
 
 # Display login or logout based on session state
 if not st.session_state.logged_in:
-    st.title(" مشاركات احسن صورة مصلى لعيد الاضحى")
+    st.title(" مشاركات احسن صورة لعيد الاضحى")
     login()
 else:
-    st.title("خروف العيد")
+    st.title(" مشاركات")
     st.subheader(f"السلام عليكم, {st.session_state.name}")
     st.subheader(" الله اكبر سبحان الله الحمد لله لا اله الا الله")
     if st.session_state.phone_number == ADMIN_PHONE_NUMBER:
         st.subheader("You are logged in as admin")
 
     # File uploader
-    uploaded_file = st.file_uploader("اضف صورة المصلى", type=["jpg", "jpeg", "png"])
+    uploaded_file = st.file_uploader("اضف صورة العيد", type=["jpg", "jpeg", "png"])
 
     # Save and display the uploaded image
     if uploaded_file is not None:
