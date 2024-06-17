@@ -12,6 +12,7 @@ background-image:url("https://image.spreadshirtmedia.com/image-server/v1/product
 background-repeat:no-repeat;
 background-position:top left;
 background-opacity:20%;
+background-size:50%;
 }
 </style>
 '''
