@@ -8,9 +8,10 @@ import json
 page_bg_img = '''
 <style>
 [data-testid="stApp"]{
-background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvROtwrgztdQMGaSy0BH6GBgwYoy5PETg_Q&s");
+background-image:url("https://img.freepik.com/free-photo/photo-mass-demonstration-with-palestinian-flags_125540-4759.jpg");
 background-repeat:no-repeat;
 background-position:top left;
+background-size:100%;
 }
 </style>
 '''
