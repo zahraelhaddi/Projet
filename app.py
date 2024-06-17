@@ -83,7 +83,7 @@ if not st.session_state.logged_in:
     st.title(" مشاركات احسن صورة لعيد الاضحى")
     login()
 else:
-    st.title(" مشاركات")
+    st.title("FREE PALESTINE مشاركات عيد الاضحى")
     st.subheader(f"السلام عليكم, {st.session_state.name}")
     st.subheader(" الله اكبر سبحان الله الحمد لله لا اله الا الله")
     if st.session_state.phone_number == ADMIN_PHONE_NUMBER:
