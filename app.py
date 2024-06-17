@@ -7,9 +7,10 @@ import json
 # CSS to set the background image
 page_bg_img = '''
 <style>
-body {
-background-image: url("https://img.freepik.com/free-vector/hand-drawn-flat-design-palestine-background_23-2149360170.jpg");
-background-size: cover;
+[data-testid="stApp"]{
+background-color: #e5e5f7;
+opacity: 0.3;
+background: linear-gradient(135deg, #444cf755 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #444cf7 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #444cf755 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #444cf7 25%, #e5e5f7 25%) 0px 0/ 20px 20px;
 }
 </style>
 '''
