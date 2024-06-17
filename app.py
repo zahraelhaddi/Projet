@@ -8,7 +8,7 @@ import json
 page_bg_img = '''
 <style>
 body {
-background-image: url("palestine_background.png");
+background-image: url("photo-mass-demonstration-with-palestinian-flags_125540-4759.png");
 background-size: cover;
 }
 </style>
